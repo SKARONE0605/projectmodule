@@ -75,7 +75,8 @@ footer {
 }
 
 footer a {
-    margin-right: ;
+     display: flex;
+    justify-content: flex-end ;
 }
 
 footer p {
